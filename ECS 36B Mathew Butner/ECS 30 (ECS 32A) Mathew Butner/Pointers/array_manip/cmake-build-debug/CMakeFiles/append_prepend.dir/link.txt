@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -Wno-unused-result -g  -Wl,--enable-auto-import CMakeFiles/append_prepend.dir/main.c.o  -o append_prepend.exe -Wl,--out-implib,libappend_prepend.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -Wno-unused-result -g  -Wl,--enable-auto-import CMakeFiles/Areas.dir/main.c.o  -o Areas.exe -Wl,--out-implib,libAreas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

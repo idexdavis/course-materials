@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/g/My Drive/ECS/ECS 30/ECS 30 Shared/Loops/secret_num/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

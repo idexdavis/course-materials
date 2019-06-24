@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Variables.dir/variables.c.o  -o Variables.exe -Wl,--out-implib,libVariables.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

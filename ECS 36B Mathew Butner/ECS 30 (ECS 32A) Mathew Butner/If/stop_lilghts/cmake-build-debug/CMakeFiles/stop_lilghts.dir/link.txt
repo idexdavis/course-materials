@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/stop_lilghts.dir/main.c.o  -o stop_lilghts.exe -Wl,--out-implib,libstop_lilghts.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

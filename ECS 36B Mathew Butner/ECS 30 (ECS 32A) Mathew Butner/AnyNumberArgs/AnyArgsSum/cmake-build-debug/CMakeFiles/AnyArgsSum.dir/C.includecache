@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/RealGoogleBackup/ECS/ECS 30/ECS 30 Shared/AnyNumberArgs/AnyArgsSum/main.c
+stdio.h
+-
+stdarg.h
+-
+

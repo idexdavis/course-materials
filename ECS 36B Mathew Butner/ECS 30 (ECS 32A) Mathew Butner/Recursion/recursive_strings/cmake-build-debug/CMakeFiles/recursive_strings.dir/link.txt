@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/recursive_strings.dir/main.c.o  -o recursive_strings.exe -Wl,--out-implib,librecursive_strings.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

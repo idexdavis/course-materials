@@ -1,0 +1,3 @@
+ToolSet: 2.9.0@D:\Programs\Cygwin
+Options: 
+CMake: 3.8.2@C:\Program Files\JetBrains\CLion 2017.2.2\bin\cmake_cygwin\bin\cmake.exe

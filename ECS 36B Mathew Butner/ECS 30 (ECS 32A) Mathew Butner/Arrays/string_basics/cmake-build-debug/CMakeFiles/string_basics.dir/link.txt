@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/string_basics.dir/main.c.o  -o string_basics.exe -Wl,--out-implib,libstring_basics.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

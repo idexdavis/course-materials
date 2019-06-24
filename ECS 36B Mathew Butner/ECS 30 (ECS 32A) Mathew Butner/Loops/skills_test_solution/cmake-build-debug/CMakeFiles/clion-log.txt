@@ -1,0 +1,4 @@
+C:\Users\mfbut\.CLion2017.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/Loops/skills_test_solution"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/Loops/skills_test_solution/cmake-build-debug

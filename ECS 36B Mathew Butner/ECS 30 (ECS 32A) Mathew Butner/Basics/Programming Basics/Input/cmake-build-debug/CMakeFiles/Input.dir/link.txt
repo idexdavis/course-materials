@@ -1,0 +1,1 @@
+/usr/bin/cc  -O1 -Wall -Werror -Wno-unused-result -g  -Wl,--enable-auto-import CMakeFiles/Input.dir/input.c.o  -o Input.exe -Wl,--out-implib,libInput.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

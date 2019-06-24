@@ -1,0 +1,3 @@
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/Basics/Programming Basics/Variables/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/Basics/Programming Basics/Variables/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/Basics/Programming Basics/Variables/cmake-build-debug/CMakeFiles/Variables.dir

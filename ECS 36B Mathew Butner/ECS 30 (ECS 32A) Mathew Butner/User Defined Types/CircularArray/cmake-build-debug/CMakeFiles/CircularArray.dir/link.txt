@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/CircularArray.dir/main.c.o CMakeFiles/CircularArray.dir/CircularArray.c.o  -o CircularArray.exe -Wl,--out-implib,libCircularArray.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

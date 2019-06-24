@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/MakeMultTable.dir/main.c.o  -o MakeMultTable.exe -Wl,--out-implib,libMakeMultTable.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

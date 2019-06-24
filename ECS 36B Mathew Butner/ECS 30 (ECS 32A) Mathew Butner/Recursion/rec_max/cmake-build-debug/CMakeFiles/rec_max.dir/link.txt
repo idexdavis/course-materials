@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/rec_max.dir/main.c.o  -o rec_max.exe -Wl,--out-implib,librec_max.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

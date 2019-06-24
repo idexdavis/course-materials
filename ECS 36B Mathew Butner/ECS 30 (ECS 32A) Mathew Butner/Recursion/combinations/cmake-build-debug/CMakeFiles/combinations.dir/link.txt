@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -Wall -Werror -Wno-unused-result -g  -Wl,--enable-auto-import CMakeFiles/combinations.dir/main.c.o  -o combinations.exe -Wl,--out-implib,libcombinations.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

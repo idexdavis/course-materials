@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Summer2018TicTacToe"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Summer2018TicTacToe">
+				<Option output="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/cmake-build-debug/Summer2018TicTacToe.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 Summer2018TicTacToe"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Summer2018TicTacToe/fast">
+				<Option output="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/cmake-build-debug/Summer2018TicTacToe.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 Summer2018TicTacToe/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GoogleBackup/ECS/ECS\ 30/ECS\ 30\ Shared/Summer2018TicTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/InputValidation.c">
+			<Option target="Summer2018TicTacToe"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/InputValidation.h">
+			<Option target="Summer2018TicTacToe"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/board.c">
+			<Option target="Summer2018TicTacToe"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/board.h">
+			<Option target="Summer2018TicTacToe"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/main.c">
+			<Option target="Summer2018TicTacToe"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/move.c">
+			<Option target="Summer2018TicTacToe"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/move.h">
+			<Option target="Summer2018TicTacToe"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/win.c">
+			<Option target="Summer2018TicTacToe"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/win.h">
+			<Option target="Summer2018TicTacToe"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

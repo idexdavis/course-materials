@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -Wall -Werror -Wno-unused-result -g  -Wl,--enable-auto-import CMakeFiles/multi_print2.dir/main.c.o  -o multi_print2.exe -Wl,--out-implib,libmulti_print2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
