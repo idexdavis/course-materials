@@ -1,0 +1,45 @@
+
+/*
+
+	int strlen(char* str){
+	
+	int len = 0;
+	for(len = 0; str[len] != '\0'; ++len);
+	
+	return len;
+
+*/
+
+.global _start
+.equ ws, 4
+
+.data
+
+str:
+	.string "hello"
+	
+	
+.text
+
+_start:
+	#eax will be len
+	
+	
+	#for(len = 0; str[len] != '\0'; ++len);
+
+	movl $0, %eax # len = 0
+	
+	for_start:
+		#str[len] != '\0'
+		#str[len] -'\0' != 0
+		#neg: str[len] -'\0' == 0
+		#*(str + len) -'\0' == 0
+		cmpb $0, str( , %eax) #str[len] - '\0'
+		jz for_end 
+		incl %eax
+		jmp for_start
+	for_end:
+	
+	
+
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/PointerExamples.dir/main.c.o  -o PointerExamples.exe -Wl,--out-implib,libPointerExamples.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

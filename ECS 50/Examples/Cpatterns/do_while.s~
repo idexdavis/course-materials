@@ -1,0 +1,17 @@
+/*
+
+do{
+
+  body
+  
+}while(condition)
+
+
+
+do{
+
+  body
+  
+}while(i < some_number)
+
+*/

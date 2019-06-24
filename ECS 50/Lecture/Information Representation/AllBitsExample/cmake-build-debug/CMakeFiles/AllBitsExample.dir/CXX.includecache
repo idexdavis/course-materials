@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/RealGoogleBackup/ECS/ECS 50/ECS 50 Shared/Lecture/Information Representation/AllBitsExample/main.cpp
+stdio.h
+-
+
