@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/broken_sort.dir/originalWrongCode.c.o  -o broken_sort.exe -Wl,--out-implib,libbroken_sort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

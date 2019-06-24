@@ -1,0 +1,5 @@
+/cygdrive/d/GoogleBackup/ECS/ECS 50/ECS 50 Shared/Lecture/Debugging/debugging_example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/GoogleBackup/ECS/ECS 50/ECS 50 Shared/Lecture/Debugging/debugging_example/cmake-build-debug/CMakeFiles/current.dir
+/cygdrive/d/GoogleBackup/ECS/ECS 50/ECS 50 Shared/Lecture/Debugging/debugging_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/GoogleBackup/ECS/ECS 50/ECS 50 Shared/Lecture/Debugging/debugging_example/cmake-build-debug/CMakeFiles/broken_sort.dir
+/cygdrive/d/GoogleBackup/ECS/ECS 50/ECS 50 Shared/Lecture/Debugging/debugging_example/cmake-build-debug/CMakeFiles/working.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/working.dir/solution.c.o  -o working.exe -Wl,--out-implib,libworking.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

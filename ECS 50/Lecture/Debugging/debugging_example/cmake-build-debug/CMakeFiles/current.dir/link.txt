@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/current.dir/main.c.o  -o current.exe -Wl,--out-implib,libcurrent.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

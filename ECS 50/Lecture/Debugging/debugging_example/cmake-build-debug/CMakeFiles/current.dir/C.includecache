@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/GoogleBackup/ECS/ECS 50/ECS 50 Shared/Lecture/Debugging/debugging_example/main.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+
