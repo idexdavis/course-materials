@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/improved_fib.dir/main.c.o  -o improved_fib.exe -Wl,--out-implib,libimproved_fib.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

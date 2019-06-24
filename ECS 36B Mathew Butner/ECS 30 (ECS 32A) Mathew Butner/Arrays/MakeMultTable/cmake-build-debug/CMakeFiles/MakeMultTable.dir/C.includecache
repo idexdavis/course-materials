@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/g/My Drive/ECS/ECS 30/ECS 30 Shared/Arrays/MakeMultTable/main.c
+stdio.h
+-
+string.h
+-
+

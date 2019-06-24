@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/Loops/scalar_pus_matrix/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

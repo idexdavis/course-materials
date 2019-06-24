@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/RealGoogleBackup/ECS/ECS 30/ECS 30 Shared/Recursion/linked_list/linked_list.c
+stdlib.h
+-
+stdio.h
+-
+linked_list.h
+/cygdrive/d/RealGoogleBackup/ECS/ECS 30/ECS 30 Shared/Recursion/linked_list/linked_list.h
+
+/cygdrive/d/RealGoogleBackup/ECS/ECS 30/ECS 30 Shared/Recursion/linked_list/linked_list.h
+stdbool.h
+-
+
+/cygdrive/d/RealGoogleBackup/ECS/ECS 30/ECS 30 Shared/Recursion/linked_list/main.c
+stdio.h
+-
+linked_list.h
+/cygdrive/d/RealGoogleBackup/ECS/ECS 30/ECS 30 Shared/Recursion/linked_list/linked_list.h
+

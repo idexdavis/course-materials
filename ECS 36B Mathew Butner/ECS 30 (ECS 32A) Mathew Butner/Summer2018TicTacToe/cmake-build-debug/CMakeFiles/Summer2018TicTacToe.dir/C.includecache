@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/InputValidation.c
+ctype.h
+-
+stdio.h
+-
+InputValidation.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/InputValidation.h
+
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/InputValidation.h
+stdbool.h
+-
+
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/board.c
+stdlib.h
+-
+stdio.h
+-
+board.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/board.h
+
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/board.h
+move.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/move.h
+
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/main.c
+stdio.h
+-
+board.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/board.h
+move.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/move.h
+win.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/win.h
+
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/move.c
+stdio.h
+-
+move.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/move.h
+board.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/board.h
+InputValidation.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/InputValidation.h
+
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/move.h
+stdbool.h
+-
+
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/win.c
+stdio.h
+-
+win.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/win.h
+
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/win.h
+stdbool.h
+-
+board.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/board.h
+move.h
+/cygdrive/d/GoogleBackup/ECS/ECS 30/ECS 30 Shared/Summer2018TicTacToe/move.h
+

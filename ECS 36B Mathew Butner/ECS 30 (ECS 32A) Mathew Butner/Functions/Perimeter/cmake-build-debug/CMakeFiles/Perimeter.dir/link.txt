@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Perimeter.dir/main.c.o  -o Perimeter.exe -Wl,--out-implib,libPerimeter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

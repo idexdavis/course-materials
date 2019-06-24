@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/globals.dir/main.c.o  -o globals.exe -Wl,--out-implib,libglobals.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

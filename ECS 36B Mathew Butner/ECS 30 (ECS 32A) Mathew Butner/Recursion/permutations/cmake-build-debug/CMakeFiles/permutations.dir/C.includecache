@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/RealGoogleBackup/ECS/ECS 30/ECS 30 Shared/Recursion/permutations/main.c
+stdio.h
+-
+stdlib.h
+-
+

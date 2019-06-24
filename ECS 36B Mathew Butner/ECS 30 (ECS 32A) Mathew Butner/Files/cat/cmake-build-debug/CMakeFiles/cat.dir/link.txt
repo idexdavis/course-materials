@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -Wall -Werror -Wno-unused-result -g  -Wl,--enable-auto-import CMakeFiles/cat.dir/main.c.o  -o cat.exe -Wl,--out-implib,libcat.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

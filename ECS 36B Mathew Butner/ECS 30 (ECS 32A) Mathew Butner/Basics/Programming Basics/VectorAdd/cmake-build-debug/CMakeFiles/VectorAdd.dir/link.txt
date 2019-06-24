@@ -1,0 +1,1 @@
+/usr/bin/cc  -O1 -Wall -Werror -Wno-unused-result -g  -Wl,--enable-auto-import CMakeFiles/VectorAdd.dir/main.c.o  -o VectorAdd.exe -Wl,--out-implib,libVectorAdd.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

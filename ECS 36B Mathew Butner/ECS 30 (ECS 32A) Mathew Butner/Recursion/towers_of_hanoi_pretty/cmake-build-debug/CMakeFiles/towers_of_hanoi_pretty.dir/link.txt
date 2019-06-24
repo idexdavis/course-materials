@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -Wall -Werror -Wno-unused-result -g  -Wl,--enable-auto-import CMakeFiles/towers_of_hanoi_pretty.dir/main.c.o  -o towers_of_hanoi_pretty.exe -Wl,--out-implib,libtowers_of_hanoi_pretty.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

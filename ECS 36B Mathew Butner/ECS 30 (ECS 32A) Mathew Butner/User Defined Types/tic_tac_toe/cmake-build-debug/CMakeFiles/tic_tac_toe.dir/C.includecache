@@ -1,0 +1,88 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/board.c
+win.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/win.h
+stdlib.h
+-
+stdio.h
+-
+board.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/board.h
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/board.h
+stdbool.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/stdbool.h
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/game_state.c
+game_state.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/game_state.h
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/game_state.h
+board.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/board.h
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/input_validation.c
+stdio.h
+-
+ctype.h
+-
+input_validation.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/input_validation.h
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/input_validation.h
+stdbool.h
+-
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/main.c
+stdbool.h
+-
+board.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/board.h
+move.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/move.h
+win.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/win.h
+game_state.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/game_state.h
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/move.c
+stdio.h
+-
+stdbool.h
+-
+move.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/move.h
+input_validation.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/input_validation.h
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/move.h
+stdbool.h
+-
+game_state.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/game_state.h
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/win.c
+stdlib.h
+-
+stdio.h
+-
+win.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/win.h
+game_state.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/game_state.h
+board.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/board.h
+
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/win.h
+stdbool.h
+-
+game_state.h
+/cygdrive/d/Google Drive/ECS/ECS 30/ECS 30 Shared/User Defined Types/tic_tac_toe/game_state.h
+

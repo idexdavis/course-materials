@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/ternary.dir/main.c.o  -o ternary.exe -Wl,--out-implib,libternary.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

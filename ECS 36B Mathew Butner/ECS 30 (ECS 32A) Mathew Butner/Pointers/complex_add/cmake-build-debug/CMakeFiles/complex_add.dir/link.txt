@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/complex_add.dir/main.c.o  -o complex_add.exe -Wl,--out-implib,libcomplex_add.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
