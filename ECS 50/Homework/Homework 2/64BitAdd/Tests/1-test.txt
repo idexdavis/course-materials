@@ -1,0 +1,13 @@
+break _start
+break done
+run
+set ((int*)&num1)[0] = -3
+set ((int*)&num1)[1] = 1035789
+set ((int*)&num2)[0] = -1
+set ((int*)&num2)[1] = 4785124
+continue
+print $eax
+print $edx
+kill
+quit
+y

@@ -1,0 +1,11 @@
+break _start
+break done
+run
+set {char[22]}&string1 = "Slow Slow Tango Close"
+set {char[17]}&string2 = "Quick Quick Slow"
+continue
+print $eax
+kill
+quit
+y
+

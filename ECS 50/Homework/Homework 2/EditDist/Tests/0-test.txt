@@ -1,0 +1,11 @@
+break _start
+break done
+run
+set {char[8]}&string1 = "sitting"
+set {char[7]}&string2 = "kitten"
+continue
+print $eax
+kill
+quit
+y
+

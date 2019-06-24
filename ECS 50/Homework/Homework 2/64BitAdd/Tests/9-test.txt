@@ -1,0 +1,14 @@
+break _start
+break done
+run
+set ((int*)&num1)[0] = 3216231
+set ((int*)&num1)[1] = 78435889
+set ((int*)&num2)[0] = 216795239
+set ((int*)&num2)[1] = 234895231
+continue
+print $eax
+print $edx
+kill
+quit
+y
+

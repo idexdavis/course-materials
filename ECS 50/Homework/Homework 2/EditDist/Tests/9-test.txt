@@ -1,0 +1,11 @@
+break _start
+break done
+run
+set {char[23]}&string1 = "You made it to end"
+set {char[27]}&string2 = "This is only the beginning"
+continue
+print $eax
+kill
+quit
+y
+

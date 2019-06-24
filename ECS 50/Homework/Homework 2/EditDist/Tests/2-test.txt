@@ -1,0 +1,10 @@
+break _start
+break done
+run
+set {char[12]}&string1 = "FUS-ROH-DAH"
+set {char[15]}&string2 = "BOB'S MY UNCLE"
+continue
+print $eax
+kill
+quit
+y

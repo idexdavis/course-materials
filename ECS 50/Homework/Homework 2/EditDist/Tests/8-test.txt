@@ -1,0 +1,11 @@
+break _start
+break done
+run
+set {char[21]}&string1 = "3 lefts make a right"
+set {char[28]}&string2 = "2 wrongs don't make a right"
+continue
+print $eax
+kill
+quit
+y
+

@@ -1,0 +1,14 @@
+break _start
+break done
+run
+set ((int*)&num1)[0] = 78
+set ((int*)&num1)[1] = 101
+set ((int*)&num2)[0] = 42
+set ((int*)&num2)[1] = 1337
+continue
+print $eax
+print $edx
+kill
+quit
+y
+

@@ -1,0 +1,11 @@
+break _start
+break done
+run
+set {char[11]}&string1 = "Dig deeper"
+set {char[12]}&string2 = "Weep harder"
+continue
+print $eax
+kill
+quit
+y
+

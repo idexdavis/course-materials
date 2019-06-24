@@ -1,0 +1,11 @@
+break _start
+break done
+run
+set dividend = 47088
+set divisor = 42
+continue
+print $eax
+print $edx
+kill
+quit
+y

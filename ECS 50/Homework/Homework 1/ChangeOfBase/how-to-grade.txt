@@ -1,0 +1,7 @@
+There are two ways to grade your program:
+
+1. Assignment: press the green 'Grade' button.
+
+2. Course: press 'Grade Assignment' for the corresponding assignment.
+
+For assistance, please visit https://support.kodethon.com

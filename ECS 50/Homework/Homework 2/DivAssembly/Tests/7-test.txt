@@ -1,0 +1,11 @@
+break _start
+break done
+run
+set dividend = 9
+set divisor = 9
+continue
+print $eax
+print $edx
+kill
+quit
+y
