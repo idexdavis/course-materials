@@ -1,5 +1,7 @@
 # Computer Scinece UCDAVIS Upper Tracks 
-At UCDAVIS, computer science major upper classes can be divided into five tracks as I listed below 
+At UCDAVIS, computer science major upper classes can be divided into two section, Major Core and Electives. 
+Major Core are six classes that required by department, and information for that is under the 'Major Core' directory. 
+Electives can be divivede into five tracks according to UCDAVIS computer sicnece department, as I listed below. 
 - ## Data Base and Data Management
 - ## Graphics and Visualization
 - ## Networking
